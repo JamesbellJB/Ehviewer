@@ -55,7 +55,7 @@ android {
 
     defaultConfig {
         applicationId = "moe.tarsin.ehviewer"
-        minSdk = 28
+        minSdk = 27
         targetSdk = 33
         versionCode = 180042
         versionName = "1.8.8.3"
